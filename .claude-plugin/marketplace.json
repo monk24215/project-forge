@@ -1,0 +1,16 @@
+{
+  "name": "project-forge",
+  "owner": {
+    "name": "K.M. Oubre",
+    "url": "https://github.com/monk24215"
+  },
+  "plugins": [
+    {
+      "name": "project-forge",
+      "source": "./",
+      "description": "Scaffold, plan, and ship production TypeScript projects — monorepo scaffolding, phased planning, a strict typecheck/lint/test gate, and the CLAUDE.md/CONTRIBUTING/README docs triad.",
+      "version": "0.1.0",
+      "keywords": ["scaffolding", "monorepo", "typescript", "pnpm", "ci", "project-planning"]
+    }
+  ]
+}

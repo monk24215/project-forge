@@ -1,0 +1,21 @@
+{
+  "name": "project-forge",
+  "version": "0.1.0",
+  "description": "Scaffold, plan, and ship production TypeScript projects using a proven monorepo methodology — package boundaries, a strict typecheck/lint/test gate, phased planning, and the CLAUDE.md/CONTRIBUTING/README docs triad.",
+  "author": {
+    "name": "K.M. Oubre",
+    "url": "https://github.com/monk24215"
+  },
+  "homepage": "https://github.com/monk24215/project-forge",
+  "repository": "https://github.com/monk24215/project-forge",
+  "license": "MIT",
+  "keywords": [
+    "scaffolding",
+    "monorepo",
+    "typescript",
+    "pnpm",
+    "ci",
+    "project-planning",
+    "developer-workflow"
+  ]
+}
